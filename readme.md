@@ -31,7 +31,8 @@ pip install -r requirements.txt
 python AI_dectector.py
 ```
 <!-- 放使用過程照片 -->
-![使用截圖](https://github.com/Ricepaste/AI-content-detector/blob/master/readme_files/image.png)
+![使用截圖](https://github.com/Ricepaste/AI-content-detector/blob/master/readme_files/image.png?raw=true#gh-dark-mode-only){:height="400px"}
+![使用截圖](https://github.com/Ricepaste/AI-content-detector/blob/master/readme_files/image.png?raw=true#gh-light-mode-only){:height="400px"}
 
 
 
