@@ -2,7 +2,6 @@
 # Introduction
 
 <!-- 可以讓你作為依據降低文章的AI感或者增加人類感，並且避免被conference reject -->
-This tool can analyze the given context is written by human or AI, and help you to reduce the AI sentiment or increase the human sentiment in your writing.
 
 各位有用AI生論文被抓到的經驗嗎? 
 不用害怕、不用擔心! 我們目前開發出了一個使用壓縮gpt-2為底的AI論文辨識器!
