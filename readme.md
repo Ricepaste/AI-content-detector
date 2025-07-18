@@ -4,6 +4,22 @@
 <!-- 可以讓你作為依據降低文章的AI感或者增加人類感，並且避免被conference reject -->
 This tool can analyze the given context is written by human or AI, and help you to reduce the AI sentiment or increase the human sentiment in your writing.
 
+各位有用AI生論文被抓到的經驗嗎? 
+不用害怕、不用擔心! 我們目前開發出了一個使用壓縮gpt-2為底的AI論文辨識器!
+💡 特別適合：
+
+投各種Conference、期刊以及任何需要做原創性審查的work
+用gpt_zero、copyleak用不到三次免費額度就用光了嗎? 沒問題! 使用我們的模型可以問到爽
+還在乖乖等待3、5分鐘等AI內容檢測嗎? 太慢了! 使用我們的模型包你3秒鐘看出結果!
+
+我們堅信：
+
+🧠 「人類的原創性值得被尊重」
+
+💻 「AI應該輔助，而不是偽裝」
+
+P.S. 我們對於此模型的運行結果概不負責，此計算結果為AI生成!
+
 # Installation
 
 ```bash
